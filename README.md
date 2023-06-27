@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**ShibabOfficial/ShibabOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨ About
+I'm skilled game, website, software and operating systems developer. I like to play write some code that stands out from the rest.
+# 💻 What languages can I code in?
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp)]()
+<!--# 🌐 Socials-->
+# 🔭 Interests
+- Game dev
+- Building websites
+- Making discord bots
+- Making Minecraft clients
+- Making operating systems
+### Icons made using [skillicons](https://skillicons.dev)
