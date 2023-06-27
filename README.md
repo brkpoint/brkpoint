@@ -11,5 +11,5 @@ I'm skilled game, website, software and operating systems developer. I like to p
 - Making Minecraft clients
 - Making operating systems
 # ⚙ Stats
-[![ShibabOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShibabOfficial&show icons=true&theme=apprentice)]()
+![ShibabOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShibabOfficial&show_icons=true&theme=apprentice)
 ### Icons made using [skillicons](https://skillicons.dev)
