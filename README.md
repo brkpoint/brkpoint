@@ -12,5 +12,5 @@ I'm skilled game, website, software and operating systems developer. I like to p
 - Making operating systems
 # ⚙ Stats
 ![ShibabOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShibabOfficial&show_icons=true&theme=apprentice)
-[![ShibabOfficial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShibabOfficial)]()
+[![ShibabOfficial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ShibabOfficial)]()
 ### Icons made using [skillicons](https://skillicons.dev)
