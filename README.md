@@ -7,7 +7,7 @@ I'm skilled game, website, software and operating systems developer. I like to p
 # 🔭 Interests
 - Game dev
 - Building websites
-- Making discord bots
+- Making Discord bots
 - Making Minecraft clients
 - Making operating systems
 # ⚙ Stats
