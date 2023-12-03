@@ -2,7 +2,7 @@
 # ✨ About
 I'm skilled game, website, software and operating system developer. I like to play and write some code that stands out from the rest.
 # 💻 What languages can I code in?
- [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp,c,asm)]()
+ [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp,c)]()
 <!--# 🌐 Socials-->
 # 🔭 Interests
 - Game dev
