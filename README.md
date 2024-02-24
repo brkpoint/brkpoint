@@ -13,6 +13,7 @@ I'm skilled game, website, software and operating system developer (not kinda th
 - Making software apps
 - Making embedded os'es
 - Screwing around with microcontrollers and microcomputers
+- Security things (in websites or programs)
 # ⚙ Stats
 ![ShibabOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShibabOfficial&show_icons=true&theme=apprentice)
 [![ShibabOfficial's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ShibabOfficial&show_icons=true&theme=apprentice)]()
