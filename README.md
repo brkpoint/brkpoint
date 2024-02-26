@@ -4,7 +4,7 @@ I'm skilled game, website, software and operating system developer (not kinda th
 # 💻 What languages can I code in?
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp,c,swift)]()
 # 🌐 Socials
-### [My website :>](https://shibabofficial.github.io)
+### [🤩 My website](https://shibabofficial.github.io)
 #### Discord: shibaofficial
 # 🗄️ What projcets I'am working right now:
 ### [🖥️ TerminalEditor](https://github.com/ShibabOfficial/TerminalEditor)
