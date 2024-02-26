@@ -5,12 +5,11 @@ I'm skilled game, website, software and operating system developer (not kinda th
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp,c,swift)]()
 # 🌐 Socials
 ### [My website :>](https://shibabofficial.github.io)
-### Discord: shibaofficial
+#### Discord: shibaofficial
 # 🗄️ What projcets I'am working right now:
 ### [🖥️ TerminalEditor](https://github.com/ShibabOfficial/TerminalEditor)
 ### [🤩 My Website](https://github.com/ShibabOfficial/ShibabOfficial.github.io)
 ### [✨ wcs](https://github.com/ShibabOfficial/CSS-Web-Stylizer)
-### Discord: shibaofficial
 # 🔭 Interests
 - Game dev
 - Building websites
