@@ -1,14 +1,14 @@
 
 # ✨ About
 I'm skilled game, website, software and operating system developer (not kinda the os developer...). I like to play and write some code that stands out from the rest.
+# 🌐 Socials
+[My website :>](https://shibabofficial.github.io)
 # 💻 What languages can I code in?
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp,c,swift)]()
 # 🗄️ What projcets I'am working right now:
-- [TerminalEditor](https://github.com/ShibabOfficial/TerminalEditor)
-- [My Website](https://github.com/ShibabOfficial/ShibabOfficial.github.io)
-- [wcs](https://github.com/ShibabOfficial/CSS-Web-Stylizer)
-# 🌐 Socials
-[My website :>](https://shibabofficial.github.io)
+- [🖥️ TerminalEditor](https://github.com/ShibabOfficial/TerminalEditor)
+- [🤩 My Website](https://github.com/ShibabOfficial/ShibabOfficial.github.io)
+- [✨ wcs](https://github.com/ShibabOfficial/CSS-Web-Stylizer)
 ### Discord: shibaofficial
 # 🔭 Interests
 - Game dev
