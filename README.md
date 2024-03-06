@@ -7,7 +7,8 @@ I'm skilled game, website, software and operating system developer (not kinda th
 ### [🤩 My website](https://shibabofficial.github.io)
 #### Discord: shibaofficial
 # 🗄️ What projcets I'am working right now:
-### [🖥️ ByteSync](https://github.com/ShibabOfficial/TerminalEditor)
+### [⌨️ ByteSync](https://github.com/ShibabOfficial/TerminalEditor)
+### [🖥️ WinTool](https://github.com/ShibabOfficial/WinTool-MacOS)
 ### [🤩 My Website](https://github.com/ShibabOfficial/ShibabOfficial.github.io)
 ### [✨ wcs](https://github.com/ShibabOfficial/CSS-Web-Stylizer)
 # 🔭 Interests
