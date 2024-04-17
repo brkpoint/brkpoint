@@ -6,7 +6,6 @@ I'm skilled game, website, software and operating system developer (maybe not th
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp,c,swift,lua)]()
 # 🌐 Socials
 ### [🤩 My website](https://shibabofficial.github.io)
-#### Discord: shibaofficial
 # 🗄️ What projcets I'am working right now:
 ### [⌨️ ByteSync](https://github.com/ShibabOfficial/TerminalEditor)
 ### [🖥️ WinTool](https://github.com/ShibabOfficial/WinTool-MacOS)
