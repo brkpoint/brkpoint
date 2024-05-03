@@ -8,7 +8,7 @@ I'm skilled game, website, software and operating system developer (maybe not th
 ### [🤩 My website](https://shibabofficial.github.io)
 # 🗄️ What projcets I'am working right now:
 ### [⌨️ ByteSync](https://github.com/ShibabOfficial/TerminalEditor)
-### [🖥️ Clipper](https://github.com/ShibabOfficial/WinTool-MacOS)
+### [🖥️ Clipper](https://github.com/ShibabOfficial/Clipper-MacOS)
 ### [🤩 My Website](https://github.com/ShibabOfficial/ShibabOfficial.github.io)
 ### [✨ wcs](https://github.com/ShibabOfficial/CSS-Web-Stylizer)
 # 🔭 Interests
