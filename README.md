@@ -5,12 +5,12 @@ I'm skilled game, website, software and operating system developer (maybe not th
 # 💻 What languages can I code in?
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,java,cs,cpp,c,swift,lua)]()
 # 🌐 Socials
-### [🤩 My website](https://shibabofficial.github.io)
+### [🤩 My website](https://brkpoint.github.io)
 # 🗄️ What projcets I'am working right now:
-### [⌨️ ByteSync](https://github.com/ShibabOfficial/TerminalEditor)
-### [🖥️ Clipper](https://github.com/ShibabOfficial/Clipper-MacOS)
-### [🤩 My Website](https://github.com/ShibabOfficial/ShibabOfficial.github.io)
-### [✨ wcs](https://github.com/ShibabOfficial/CSS-Web-Stylizer)
+### [⌨️ ByteSync](https://github.com/brkpoint/TerminalEditor)
+### [🖥️ Clipper](https://github.com/brkpoint/Clipper-MacOS)
+### [🤩 My Website](https://github.com/brkpoint/ShibabOfficial.github.io)
+### [✨ wcs](https://github.com/brkpoint/CSS-Web-Stylizer)
 # 🔭 Interests
 - Game dev
 - Building websites
