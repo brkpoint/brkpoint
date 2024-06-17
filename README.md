@@ -9,7 +9,7 @@ I'm skilled game, website, software and operating system developer (maybe not th
 # 🗄️ What projcets I'am working right now:
 ### [⌨️ ByteSync](https://github.com/brkpoint/TerminalEditor)
 ### [🖥️ Clipper](https://github.com/brkpoint/Clipper-MacOS)
-### [🤩 My Website](https://github.com/brkpoint/ShibabOfficial.github.io)
+### [🤩 My Website](https://github.com/brkpoint/brkpoint.github.io)
 ### [✨ wcs](https://github.com/brkpoint/CSS-Web-Stylizer)
 # 🔭 Interests
 - Game dev
