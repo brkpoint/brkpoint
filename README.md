@@ -4,8 +4,6 @@ I'm skilled game, website, software and operating system developer (maybe not th
 #### Also welcome to my profile! :>
 # 💻 What languages do I code in?
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,java,cs,cpp,c,swift,lua)]()
-# 🌐 Socials
-### [🤩 My website](https://aleks.re1.pl)
 # 🗄️ What projcets I am working right now:
 ### [⌨️ ByteSync](https://github.com/brkpoint/ByteSync-TerminalEditor)
 ### [🖥️ Clipper](https://github.com/brkpoint/Clipper-MacOS)
