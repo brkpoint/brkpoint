@@ -7,7 +7,7 @@ I'm skilled game, website, software and operating system developer (maybe not th
 # 🌐 Socials
 ### [🤩 My website](https://aleks.re1.pl)
 # 🗄️ What projcets I am working right now:
-### [⌨️ ByteSync](https://github.com/brkpoint/TerminalEditor)
+### [⌨️ ByteSync](https://github.com/brkpoint/ByteSync-TerminalEditor)
 ### [🖥️ Clipper](https://github.com/brkpoint/Clipper-MacOS)
 ### [🤩 My Website](https://github.com/brkpoint/brkpoint.github.io)
 # 🔭 Interests
