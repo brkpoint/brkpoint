@@ -16,7 +16,11 @@ I'm Aleksander, I mainly develop applications in C and C++, but I also create we
 
 ➤ Games
 
-![env](https://skillicons.dev/icons?i=unity,blender)
+![env](https://skillicons.dev/icons?i=unity)
+
+➤ Creative
+
+![env](https://skillicons.dev/icons?i=figma,ableton,notion,blender)
 
 ## 🌐 Languages I code in
 ![languages](https://skillicons.dev/icons?i=rust,c,cpp,cs,swift,python,lua,java,html,css,js,ts)
