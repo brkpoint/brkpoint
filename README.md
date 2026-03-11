@@ -9,11 +9,9 @@ I'm Aleksander, I mainly develop applications in C and C++, but I also create we
 ➤ Repos
 [skillicons](https://skillicons.dev/), [wakatime](https://wakatime.com), [wakatime-readme](https://github.com/anmol098/waka-readme-stats)
 
-➤ Enviroment
-![env](https://skillicons.dev/icons?i=linux,apple,windows,vscode,visualstudio,neovim,idea,postman,git,arduino)
+➤ I use
 
-➤ Creative
-![env](https://skillicons.dev/icons?i=figma,ableton,notion,blender)
+![env](https://skillicons.dev/icons?i=linux,apple,vscode,neovim,postman,git,arduino,figma,ableton,notion)
 
 ## 🌐 Languages I code in
-![languages](https://skillicons.dev/icons?i=rust,c,cpp,cs,swift,python,lua,java,html,css,js,ts,bash)
+![languages](https://skillicons.dev/icons?i=rust,c,cpp,cs,swift,python,react,nodejs,cmake)
