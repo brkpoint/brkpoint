@@ -16,11 +16,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
+          SYMBOL_VERSION: 1
           SHOW_TITLE: true
           SECTION_NAME: waka
-          SHOW_COMMIT: true
+          SHOW_LANGUAGE_PER_REPO: true
           TIME_RANGE: all_time
-          LANG_COUNT: 5
+          LANG_COUNT: 7
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
