@@ -1,4 +1,3 @@
-
 # ✨ About
 I'm Aleksander, I mainly develop applications in C and C++, but I also create web app, games and operating systems.
 
