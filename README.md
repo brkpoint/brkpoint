@@ -2,7 +2,7 @@
 # ✨ About
 I'm Aleksander, I mainly develop applications in C and C++, but I also create web app, games and operating systems.
 
-![languages](https://skillicons.dev/icons?i=rust,c,cpp,cs,swift,python,java,ts,react,nodejs,cmake)
+![languages](https://skillicons.dev/icons?i=rust,c,cpp,cs,swift,python,java,ts,js,html,css,react,nodejs,cmake)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
