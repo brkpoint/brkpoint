@@ -54,7 +54,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 ## 🤔 What do I use?
 ➤ Repos
-[skillicons](https://skillicons.dev/), [wakatime](https://wakatime.com), [wakatime-readme](https://github.com/anmol098/waka-readme-stats)
+[skillicons](https://skillicons.dev/), [wakatime](https://wakatime.com), [waka-readme](https://github.com/athul/waka-readme)
 
 ➤ I use
 
