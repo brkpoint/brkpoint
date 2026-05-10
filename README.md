@@ -6,7 +6,7 @@ I'm Aleksander, I mainly develop applications in C and C++, but I also create we
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 08 May 2026
+From: 26 June 2023 - To: 09 May 2026
 
 Total Time: 976 hrs 8 mins
 
