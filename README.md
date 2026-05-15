@@ -6,20 +6,20 @@ I'm Aleksander, I mainly develop applications in C and C++, but I also create we
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 12 May 2026
+From: 26 June 2023 - To: 14 May 2026
 
-Total Time: 977 hrs 38 mins
+Total Time: 978 hrs 44 mins
 
-JavaScript        148 hrs 5 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Rust              138 hrs 40 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-TypeScript        134 hrs 59 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-C++               113 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Python            90 hrs 3 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-C                 57 hrs 42 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Swift             54 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+JavaScript        148 hrs 5 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Rust              139 hrs 42 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
+TypeScript        134 hrs 59 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+C++               113 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Python            90 hrs 3 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+C                 57 hrs 42 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Swift             54 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 Java              51 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 CSS               47 hrs 40 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-C#                31 hrs 3 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+C#                31 hrs 3 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
