@@ -6,20 +6,20 @@ I'm Aleksander, I mainly develop applications in C and C++, but I also create we
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 29 August 2026
+From: 26 June 2023 - To: 30 August 2026
 
-Total Time: 1,007 hrs 33 mins
+Total Time: 1,009 hrs 2 mins
 
-Rust                               154 hrs 35 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-JavaScript                         148 hrs 5 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-TypeScript                         137 hrs 42 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-C++                                113 hrs 59 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Python                             90 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-C                                  58 hrs 40 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Rust                               155 hrs 18 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+JavaScript                         148 hrs 5 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+TypeScript                         138 hrs 12 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+C++                                113 hrs 59 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Python                             90 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+C                                  58 hrs 40 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 Swift                              54 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Java                               51 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-CSS                                49 hrs 20 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-C#                                 38 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Java                               51 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+CSS                                49 hrs 22 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+C#                                 38 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
