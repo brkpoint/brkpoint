@@ -6,19 +6,19 @@ I'm Aleksander, I mainly develop applications in C and C++, but I also create we
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 02 September 2026
+From: 26 June 2023 - To: 04 September 2026
 
-Total Time: 1,022 hrs 27 mins
+Total Time: 1,024 hrs 33 mins
 
-Rust                               159 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-JavaScript                         148 hrs 19 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-TypeScript                         146 hrs 23 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-C++                                113 hrs 59 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Python                             90 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-C                                  58 hrs 40 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Swift                              54 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Java                               51 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-CSS                                49 hrs 22 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Rust                               159 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+JavaScript                         148 hrs 26 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+TypeScript                         147 hrs 34 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+C++                                113 hrs 59 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Python                             90 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+C                                  58 hrs 41 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Swift                              54 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Java                               51 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+CSS                                49 hrs 22 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 C#                                 38 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
