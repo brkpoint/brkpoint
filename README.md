@@ -6,20 +6,20 @@ I'm Aleksander, I mainly develop applications in C and C++, but I also create we
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 19 September 2026
+From: 26 June 2023 - To: 20 September 2026
 
-Total Time: 1,048 hrs 42 mins
+Total Time: 1,051 hrs 9 mins
 
-TypeScript                         162 hrs 37 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Rust                               162 hrs 29 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-JavaScript                         148 hrs 29 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-C++                                113 hrs 59 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Python                             90 hrs 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-C                                  58 hrs 41 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Swift                              54 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-Java                               51 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-CSS                                49 hrs 54 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-C#                                 38 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+TypeScript                         162 hrs 37 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Rust                               162 hrs 29 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+JavaScript                         148 hrs 29 mins       ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+C++                                114 hrs 2 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Python                             90 hrs 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+C                                  58 hrs 41 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Swift                              54 hrs 51 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Java                               51 hrs 33 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+CSS                                49 hrs 54 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+C#                                 40 hrs 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
